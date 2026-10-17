@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "homelab-monitor": {
+      "command": "npx",
+      "args": ["-y", "homelab-monitor-mcp"]
+    }
+  }
+}

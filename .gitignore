@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.env
+
+# Internal deployment runbook — real host IPs / tunnel URLs, not for the public repo
+docs/chatgpt-remote-access.md
